@@ -1,0 +1,15 @@
+h1 { 
+    font-size: 50px;
+    font-family: impact;   
+}
+
+h2 {
+    font-size: 25px;
+    font-family: Impact;
+    font-style: oblique;
+}
+
+p{
+    font-family: Verdana;
+    color:rgb(200, 0,0);
+}
